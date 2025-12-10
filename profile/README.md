@@ -1,7 +1,10 @@
 # Welcome to CubicControl 👋
 
-CubicControl is a Windows-only control panel that makes running and sharing Minecraft servers easy.
+CubicControl is the dedicated Windows control panel built to make hosting Minecraft servers easy — especially on a spare or dedicated PC.  
 
 ## Featured Project
-👉 [CubicControl-Launcher](https://github.com/CubicControl/CubicControl-Launcher)
-👉 [CubicControl-ClientSide](https://github.com/CubicControl/CubicControl-ClientSide)
+👉 [CubicControl-Launcher](https://github.com/CubicControl/CubicControl-Launcher)  
+👉 [CubicControl-ClientSide](https://github.com/CubicControl/CubicControl-ClientSide)  
+
+## Installation Guide
+➡️ https://cubiccontrol.github.io/
